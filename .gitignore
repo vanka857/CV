@@ -1,0 +1,5 @@
+*__pycache__
+*.DS_Store
+CFA.bmp
+Original.bmp
+RGB_CFA.bmp
